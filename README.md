@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+5월 17일 ~ 멀티캠퍼스 지능형 서비스 개발 과정 수강 중입니다.
 <!--
 **Songgplant/Songgplant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
