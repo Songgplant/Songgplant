@@ -5,8 +5,7 @@
 
 - 사용 언어 : Python
 - 개발 도구 : Pycharm - Django 기반
-- Python 이외에 경험만 해본 언어 : javascript, html
-- Python 이외에 경험만 해본 tool : bootstrap template 적용 프로젝트, mysql, pythonanywhere 웹배포
+- Python 이외에 경험 tool : javascript, html, bootstrap template 적용 프로젝트, mysql, pythonanywhere 웹배포
 
 코딩테스트 준비하고 있습니다.
 
