@@ -6,9 +6,6 @@
 
 - 주 사용 언어 : Python
 
-🌱 I’m currently learning ...
-딥러닝 기초 공부 중입니다
-
 <!--
 **Songgplant/Songgplant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
